@@ -1,5 +1,5 @@
 # Nekoparaiten
-An April Fool's day app for my friend. 
+An April Fool's day app and website for my friend.
 
 NEKOPARAITEN
 
