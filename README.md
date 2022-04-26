@@ -50,6 +50,7 @@ Here you can **Sign Up** or **Login** and then the player database will be store
 Here player can also see how many times they have played the game.
 
 The online database hierarchy is the following.
+
 ![database](https://github.com/DulapahV/Nekoparaiten/blob/main/images/db.png?raw=true)
 
 ### Story
