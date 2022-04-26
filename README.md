@@ -35,8 +35,8 @@ Nekoparaiten (April Fool's) is an online speed-clicking game written in Python. 
 
 The key features are:
 1. Featuring catgirl characters and voice lines from a famous franchise Nekopara!
-2. Online account synchronization with built-in register/login account feature
-3. Online leaderboard system with separated difficulty
+2. Online account synchronization with built-in sign-up/login account feature
+3. Online leaderboard system
 4. Players can log in to view their profile stats and sync their progress anywhere/anytime in the world
 5. Can also be played offline!
 
